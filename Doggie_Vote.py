@@ -6,7 +6,7 @@ import time
 #Need chrome web driver executable at this location: "C:\Program Files (x86)\chromedriver.exe"
 #Change num to equal now many times you want to click
 num = 10
-#Run "python test-click.py"
+#Run "python Doggie_Vote.py"
 PATH = "C:\Program Files (x86)\chromedriver.exe"
 driver = webdriver.Chrome(PATH)
 
